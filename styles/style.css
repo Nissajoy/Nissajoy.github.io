@@ -1,0 +1,43 @@
+body {
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+	background-color: #CAB4B4;
+	text-align: center;
+}
+h1{
+	font-size: 1em
+}
+
+
+h2{
+	font-size: 2em;
+	text-transform: uppercase;
+}
+
+
+h3{
+	text-align: left;
+	text-transform: uppercase;
+}
+
+
+
+ul {
+	list-style: center;
+}
+
+#first-paragraph {
+	text-align: left;
+	font-weight: bold
+}
+
+img{
+	border: 1px solid black;
+	float: right;
+	width: 200px;
+	height	200px;
+	margin-right: 60px;
+	margin-left: 10px;
+	}
+
+
